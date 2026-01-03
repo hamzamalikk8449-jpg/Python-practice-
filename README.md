@@ -1,5 +1,2 @@
-python-practice/
- ├── hello.py
- ├── addition.py
- ├── even_odd.py
- └── README.md
+# Python Practice
+This repository contains my beginner Python programs.
